@@ -1,0 +1,107 @@
+
+#txt{
+    position:absolute;
+    color:rgb(112, 197, 225);
+    font-family:cursive;
+
+}
+#n1,#n2,#n3,#n4{
+    text-decoration: none;
+    font-size:18px;
+}
+
+
+.dhead{
+    background-color: rgb(150, 207, 241); 
+    padding-top:2px;
+    padding-left: 965px;
+    padding-bottom: 2px;
+}
+
+#n1:hover{
+    background-color: rgb(86, 146, 237);
+    cursor:pointer;
+}
+#n2:hover{
+    background-color: rgb(86, 146, 237);
+    cursor:pointer;
+}
+#n3:hover{
+    background-color: rgb(86, 146, 237);
+    cursor:pointer;
+}
+#n4:hover{
+    background-color: rgb(86, 146, 237);
+    cursor:pointer;
+}
+#info{
+    position:absolute;
+    color: rgb(47, 112, 210);
+    left:500px;
+    top:200px;
+    font-size:25px;
+
+}
+#main{
+    color:blue;
+}
+#foot{
+    position: relative;
+    background-color: rgba(32, 115, 162, 0.836); 
+    padding-top:17px;
+    padding-left: 560px;
+    padding-bottom:17px;
+    bottom: 3.7px;
+    /* box-shadow: 1px 1px 1px 0.5px rgba(32, 115, 162, 0.836); */
+}
+.icn{
+    margin-right: 8px;
+}
+#dfoot{
+    position: relative;
+    background-color:rgb(150, 207, 241);
+    padding-left:478px;
+    /* padding-top:1.5px;
+    padding-bottom:1.5px; */
+    bottom:4px;
+}
+#abt{
+    position:absolute;
+    color:rgb(47, 112, 210);
+    left:455px;
+}
+
+
+#rimg{
+    float:right;
+}
+#mid{
+    position:absolute;
+    top:40px;
+    left:403px;
+    color:rgb(9, 75, 97);
+}
+#line1{
+    color:rgb(45, 12, 231);
+    position:relative;
+    left:100px;
+    
+}
+#rgt{
+    position: absolute;
+    top: 350px;
+    left:400px;
+    color:rgb(9, 75, 97);
+}
+
+.cntct{
+    /* font-size: 22px; */
+    color:rgba(33, 22, 194, 0.836);
+}
+.cnt{
+    position:absolute;
+    top:150px;
+    left:650px;
+    font-size:22px;
+    
+}
